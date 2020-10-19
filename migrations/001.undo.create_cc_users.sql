@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS cc_users;
+DROP TYPE IF EXISTS user_type;

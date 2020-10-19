@@ -1,0 +1,184 @@
+{"message":"ProjectsService.getAllProjects is not a function","level":"error"}
+{"message":"project is not defined","level":"error"}
+{"message":"newProject is not defined","level":"error"}
+{"message":"Unexpected token } in JSON at position 163","level":"error"}
+{"message":"details is not defined","level":"error"}
+{"message":"details is not defined","level":"error"}
+{"message":"dadline_flexibility is not defined","level":"error"}
+{"message":"newUser is not defined","level":"error"}
+{"message":"knex.insert(...).into(...).return is not a function","level":"error"}
+{"message":"knex.insert(...).into(...).return is not a function","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_email_key\"","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_email_key\"","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"insert into \"cc_users\" (\"email\", \"name\", \"password\", \"user_type\") values ($1, $2, $3, $4) returning * - duplicate key value violates unique constraint \"cc_users_pkey\"","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"project_type is required","level":"error"}
+{"message":"deadline is required","level":"error"}
+{"message":"deadline_flexibility is required","level":"error"}
+{"message":"charity_id is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"user_type is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"password is required","level":"error"}
